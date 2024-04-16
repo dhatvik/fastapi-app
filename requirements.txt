@@ -215,3 +215,4 @@ wrapt==1.14.1
 wsproto==1.2.0
 yarl==1.9.4
 zxing-cpp==2.2.0
+PIL
